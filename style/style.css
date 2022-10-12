@@ -11,7 +11,7 @@ header{
   display:flex;
   background-color: #c0e9cd;
   border: 1px solid black;
-  border-radius: 45px;
+  border-radius: 25px;
   padding: 5px;
 }
 
@@ -31,7 +31,7 @@ header{
     text-decoration: none;
     background-color: rgb(155, 223, 182);
     border: 1px solid rgb(172, 192, 196);
-    border-radius: 45px;
+    border-radius: 5px;
     padding: 5px;
 }
 
@@ -58,8 +58,8 @@ h1 {
   background-color: rgb(183, 207, 125);
   margin: 10px;
   border: 1px solid rgb(2, 27, 10);
-  border-radius: 45px;
-  padding: 10px;
+  border-radius: 15px;
+  padding: 5px;
   align-items: center
 }
 
@@ -79,6 +79,7 @@ footer {
     padding: 10px;
     text-align: center;
     background-color: rgb(101, 164, 216);
+    border-radius: 5px;
 }
 
 h3 {
